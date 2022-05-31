@@ -1,0 +1,26 @@
+{
+  "name": "project",
+  "version": "1.0.0",
+  "description": "'hw 41'",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xSakura13/hw_41.git"
+  },
+  "author": "Yana Panko",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xSakura13/hw_41/issues"
+  },
+  "homepage": "https://github.com/xSakura13/hw_41#readme",
+  "devDependencies": {
+    "eslint": "^8.16.0",
+    "eslint-config-airbnb-base": "^15.0.0",
+    "eslint-plugin-import": "^2.26.0",
+    "lodash": "^4.17.21",
+    "prettier": "^2.6.2"
+  }
+}
